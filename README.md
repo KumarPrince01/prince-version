@@ -1,5 +1,5 @@
 # prince-version
 This  is Prince's first Git  Repository.
 <br>
-Author-Prince Ray (IIT BBS)
+Author-Prince Ray (IIT .BBS)
 
